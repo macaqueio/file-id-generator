@@ -1,6 +1,6 @@
 {
 	"name": "File ID Generator",
-	"version": "0.1.1",
+	"version": "0.0.0",
 	"description": "Inserts into the current selection a md5 hash of the current file's relative path.",
 	"keywords": [
 		"md5",

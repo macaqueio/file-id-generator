@@ -5,8 +5,9 @@
 	"keywords": [
 		"md5",
 		"path",
+		"file",
 		"id",
-		"file-id-generator",
+		"generator",
 		"comment",
 		"hash"
 	],

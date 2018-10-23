@@ -12,7 +12,7 @@
 	],
 	"license": "MIT",
 	"main": "./lib/file-id-generator",
-	"repository": "git@github.com:macaqueio/file-id-generator.git",
+	"repository": "https://github.com/macaqueio/file-id-generator.git",
 	"scripts": {
 		"eslint-fix": "eslint --fix lib/",
 		"eslint-check": "eslint lib/"

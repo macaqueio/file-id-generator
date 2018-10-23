@@ -14,7 +14,7 @@
 	"main": "./lib/file-id-generator",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:macaqueio/file-id-generator.git"
+		"url": "https://github.com/macaqueio/file-id-generator.git"
 	},
 	"scripts": {
 		"eslint-fix": "eslint --fix lib/",

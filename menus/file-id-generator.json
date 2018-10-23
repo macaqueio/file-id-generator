@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "File ID Generator",
+        "command": "file-id-generator:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "File ID Generator",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "file-id-generator:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

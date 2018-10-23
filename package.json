@@ -1,0 +1,34 @@
+{
+	"name": "File ID Generator",
+	"version": "0.1.1",
+	"description": "Inserts into the current selection a md5 hash of the current file's relative path.",
+	"keywords": [
+		"md5",
+		"path",
+		"id",
+		"file-id-generator",
+		"comment",
+		"hash"
+	],
+	"license": "MIT",
+	"main": "./lib/file-id-generator",
+	"repository": {},
+	"scripts": {
+		"eslint-fix": "eslint --fix lib/",
+		"eslint-check": "eslint lib/"
+	},
+	"dependencies": {
+		"md5": "^2.2.1"
+	},
+	"devDependencies": {
+		"babel-eslint": "^6.1.2",
+		"eslint": "^3.3.0",
+		"eslint-config-atom-build": "^4.0.0"
+	},
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"activationCommands": {
+		"atom-workspace": "file-id-generator:generate"
+	}
+}

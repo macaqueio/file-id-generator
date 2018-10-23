@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-cmd-i": "file-id-generator:generate"
+  }
+}

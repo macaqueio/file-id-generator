@@ -1,10 +1,10 @@
 # File ID Generator
 
-Automatically generates an MD5 hash of the current file's relative path. Useful for creating unique ID's for files in your project.
+Automatically generates an MD5 hash using the current file's relative path along with a random number. Useful for creating unique ID's for files in your project.
 
 ## Description
 
-This is a simple package that inserts text for file identification. The text will replace the current selection with the MD5 hash of the selected files relative path. You can activate it from the context menu, command palette, using `ctrl-cmd-i` (MacOSX) or `ctrl-windows-i` (Windows).
+This is a simple package that inserts text for file identification. The text will replace the current selection with the MD5 hash. You can activate it from the context menu, command palette, using `ctrl-cmd-i` (MacOSX) or `ctrl-windows-i` (Windows).
 
 ```html
 04c6e90faac2675aa89e2176d2eec7d8

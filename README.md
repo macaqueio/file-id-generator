@@ -13,4 +13,3 @@ This is a simple package that inserts text for file identification. The text wil
 ## Security Caveats ##
 
 The MD5 hash is insecure and using it to verify anything is ill advised. However, for generating a unique id from a small set of file paths, the MD5 is perfect.
-

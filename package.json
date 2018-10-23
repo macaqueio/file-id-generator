@@ -1,6 +1,6 @@
 {
 	"name": "file-id-generator",
-	"version": "0.0.0",
+	"version": "0.1.1",
 	"description": "Inserts into the current selection a md5 hash of the current file's relative path.",
 	"keywords": [
 		"md5",
@@ -12,10 +12,7 @@
 	],
 	"license": "MIT",
 	"main": "./lib/file-id-generator",
-	"repository": {
-		"type": "git",
-		"url": "git@github.com:macaqueio/file-id-generator.git"
-	},
+	"repository": "https://github.com/macaqueio/file-id-generator.git",
 	"scripts": {
 		"eslint-fix": "eslint --fix lib/",
 		"eslint-check": "eslint lib/"

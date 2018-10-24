@@ -1,6 +1,6 @@
 {
 	"name": "file-id-generator",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"description": "Inserts a unique md5 hash into the selected file. Useful for creating unique IDs for your project files.",
 	"keywords": [
 		"md5",
